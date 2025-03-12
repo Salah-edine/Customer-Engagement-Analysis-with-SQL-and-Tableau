@@ -17,4 +17,3 @@ Explore the interactive Tableau dashboard here:
 ## Tools and Technologies
 - **SQL**: For querying and analyzing data from the database.
 - **Tableau**: For creating interactive dashboards and visualizations.
-- **Relational Database**: Contains tables for students, courses, engagement, and ratings.
