@@ -1,7 +1,7 @@
 # Customer-Engagement-Analysis-with-SQL-and-Tableau
 
 ## Project Overview
-This project analyzes student engagement with the 365 platform using SQL and Tableau. The goal is to uncover insights into student behavior, identify areas for improvement, and provide actionable recommendations. The project includes a three-page Tableau dashboard that answers key business questions about course popularity, student onboarding, engagement metrics, and geographic trends.
+This project analyzes student engagement with the 365 platform using SQL and Tableau. The goal is to uncover insights into student behavior, identify areas for improvement, and provide actionable recommendations. The project includes a two-page Tableau dashboard that answers key business questions about course popularity, student onboarding, engagement metrics, and geographic trends.
 
 ## Tableau Dashboard
 Explore the interactive Tableau dashboard here:  
